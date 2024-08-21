@@ -1,0 +1,126 @@
+#userForm {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 18px;
+
+  padding: 30px 0;
+
+  height: 400px;
+}
+
+#userForm input{
+  width: 250px;
+  height: 35px;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+#userForm button{
+  width: 150px;
+  height: 35px;
+  border-radius: 20px;
+  padding: 10px;
+
+  font-size: 16px;
+  font-weight: bold;
+  background-color: rgb(135, 1, 189);
+  color: #fff;
+}
+
+#userForm button:hover{
+  color: rgb(135, 1, 189);
+  background-color: #fff;
+  transition: all 0.3s;
+}
+
+#required-notation {
+  font-size: 10px;
+  color:  rgb(171, 8, 8);
+}
+
+.input-wrapper {
+  position: relative;
+}
+
+#firstname-validation, #phone-validation {
+  position: absolute;
+  right: -10px;
+  top: -13px;
+  color: red;
+}
+
+#HEADLINE43 > #header-ladi-headline.ladi-headline{
+  font-size: 79px ;
+}
+
+#IMAGE83 > .ladi-image {
+  width: 210px;
+  position: relative;
+  right: -21px;
+  top: -1px;
+}
+
+#IMAGE82 > .ladi-image {
+  width: 210px;
+  position: relative;
+  top: -1px;
+}
+
+.ladi-container > #IMAGE82 > .ladi-image > .ladi-image-background {
+  width: 100%;
+  left: 0px;
+}
+
+.ladi-group > #HEADLINE59 > .ladi-headline,  
+.ladi-group > #HEADLINE60 > .ladi-headline,  
+.ladi-group > #HEADLINE61 > .ladi-headline {
+  font-size: 39px;
+}
+
+.ladi-group > #HEADLINE62 > .ladi-headline, 
+.ladi-group > #HEADLINE63 > .ladi-headline, 
+.ladi-group > #HEADLINE64 > .ladi-headline {
+  font-size: 16px;
+}
+
+#GROUP7 > .ladi-group {
+  position: relative;
+  top: -10px;
+}
+
+#IMAGE95 > .ladi-image.ladi-transition, 
+#IMAGE96 > .ladi-image.ladi-transition,
+#IMAGE97 > .ladi-image.ladi-transition, 
+#IMAGE98 > .ladi-image.ladi-transition, 
+#IMAGE99 > .ladi-image.ladi-transition {
+    border-width: 0;
+}
+
+.ladi-container > #BOX24 {
+  width: 420px;
+  left: 0;
+}
+
+#IMAGE68.ladi-element > .ladi-image  {
+  width: 425px;
+}
+#IMAGE68.ladi-element > .ladi-image > .ladi-image-background {
+  width: 425px;
+}
+
+#IMAGE68.ladi-element {
+  left: 0;
+}
+
+#IMAGE65.ladi-element > .ladi-image  {
+  width: 425px;
+}
+#IMAGE65.ladi-element > .ladi-image > .ladi-image-background {
+  width: 425px;
+}
+
+#IMAGE65.ladi-element {
+  left: 0;
+}
